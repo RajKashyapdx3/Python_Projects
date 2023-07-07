@@ -1,2 +1,2 @@
 # Python_Project
-Analysis on Diffrent Data Set
+Analysis on Different Data Set
